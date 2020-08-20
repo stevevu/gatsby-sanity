@@ -9,3 +9,5 @@
 
 # Ignore hidden files as default
 .*
+
+netlify.toml
